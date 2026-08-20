@@ -1,0 +1,5 @@
+provider: generic
+url: https://bluebook.app.collegeboard.org/downloads/
+updaterCacheDirName: bluebook-updater
+publisherName:
+  - College Board
